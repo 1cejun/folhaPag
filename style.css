@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: white;
+  }
+ 
+  h1 {
+    color: black;
+  }
+ 
+  label {
+    display: flow-root;
+    margin-top: 15px;
+  }
+ 
+  input {
+    width: 300px;
+    padding: 8px;
+    margin-top: 5px;
+  }
+ 
+  button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: gray;
+    
+  }
+  button:hover {
+    background-color: antiquewhite;
+  }
+ 
+  #resultado {
+    display: inline-block;
+    background-color: #bee0be;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
